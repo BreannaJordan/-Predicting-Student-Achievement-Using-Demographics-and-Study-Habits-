@@ -28,5 +28,26 @@ All analysis was conducted in Python using Jupyter Notebook and exported as an H
 ### Required Libraries
 Install all required packages using:
 
-```bash
 pip install pandas numpy matplotlib seaborn scikit-learn scipy
+
+## 2.Launch Jupyter Notebook
+ Open student_performance_project.ipynb
+
+## 3. Run the entire analysis:
+ Click Kernel
+ Select Restart & Run All
+     
+# This will generate:
+Descriptive statistics
+Histograms, scatterplots, and heatmaps
+t-tests and ANOVA results
+Pearson correlation matrix
+Linear Regression model + evaluation metrics
+Random Forest classification model + metrics
+Visualizations and residual plots
+
+
+
+
+
+
